@@ -17,7 +17,7 @@ public class SpringJenkinsGithubApplication {
 
     public static void main(String[] args) {
 
-        logger.info("Application  started.....");
+        logger.info("Application  executed.....");
         SpringApplication.run(SpringJenkinsGithubApplication.class, args);
 
     }
