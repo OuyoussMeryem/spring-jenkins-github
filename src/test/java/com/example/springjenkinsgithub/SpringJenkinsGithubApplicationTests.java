@@ -11,7 +11,7 @@ class SpringJenkinsGithubApplicationTests {
     public static Logger logger= LoggerFactory.getLogger(SpringJenkinsGithubApplicationTests.class);
 
     @Test
-    public void contextLoads() {
+    public  contextLoads() {
         logger.info("Test case executed.....");
       assertEquals(true,true);
     }
