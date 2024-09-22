@@ -13,7 +13,6 @@ class SpringJenkinsGithubApplicationTests {
     @Test
     public void contextLoads() {
         logger.info("Test case executed.....");
-        logger.info("ajouter la partie de pipeline");
       assertEquals(true,true);
     }
 
